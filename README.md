@@ -23,9 +23,9 @@ SRC
 
 - solana
 
- > [ x ] wallet.py ( deeplinks for phantom intgration )
+  > [ x ] wallet.py ( deeplinks for phantom intgration )
  
- > [ x ] cashflow.py ( manages rake and cash in and out with escrow ) 
+  > [ x ] cashflow.py ( manages rake and cash in and out with escrow ) 
 
 
 
